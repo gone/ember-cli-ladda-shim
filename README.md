@@ -1,4 +1,4 @@
-ember-cli-moment-shim
+ember-cli-ladda-shim
 ===========
 
 About
