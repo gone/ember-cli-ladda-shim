@@ -1,0 +1,21 @@
+{
+  "name": "ember-cli-ladda-shim",
+  "main": [
+    "ladda-shim.js"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/gone/ember-cli-ladda-shim",
+  "authors": [
+    "Ben Beecher <benbeecher@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ladda": "~0.9.4"
+  }
+}
